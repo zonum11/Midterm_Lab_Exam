@@ -1,0 +1,21 @@
+var studentNumberPattern;
+var emailPattern;
+
+var registrationForm;
+var studentName;
+var studentNumber;
+var email;
+var workshop;
+var terms;
+var nameError;
+var studentNumberError;
+var emailError;
+var workshopError;
+var termsError;
+var registerBtn;
+var clearBtn;
+var registrationResult;
+var summaryName;
+var summaryStudentNumber;
+var summaryEmail;
+var summaryWorkshop;
